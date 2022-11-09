@@ -2,7 +2,7 @@
 ## _Donate Blood To Save Life_
 
 
-[![Build Status]()](https://github.com/farhanshahriyar/bldonorfrontend)
+[![FrontendPart]()](https://github.com/farhanshahriyar/bldonorfrontend)
 
 ## Tech
 
