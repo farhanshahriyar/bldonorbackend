@@ -2,7 +2,7 @@
 ## _Donate Blood To Save Life_
 
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+[![Build Status]()](https://github.com/farhanshahriyar/bldonorfrontend)
 
 ## Tech
 
